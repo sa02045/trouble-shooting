@@ -1,5 +1,7 @@
 ## 문제
 
+### 사용자가 쿠키를 차단하면 홈페이지가 동작하지 않고 흰 화면이 나오는 이슈
+
 <img src="https://velog.velcdn.com/images/sa02045/post/a71b7d79-317e-4147-a42f-5242efe91056/image.png" width="600" />
 
 ## 원인
