@@ -7,6 +7,10 @@
 
 ## 원인
 
+간단히 말하면 파일 hash가 변경되어 존재하지 않는 chunk를 가져오려는 문제이다.
+
+아래 블로그 글에 자세히 기술
+
 [Chunk Load Error 문제이해편](https://sa02045.github.io/chunk-load-error/)
 
 ## 해결
